@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="kategori_array">
+        <item>Keyboard</item>
+        <item>Gadget</item>
+        <item>PC</item>
+        <item>Laptop</item>
+        <item>Mouse</item>
+        <item>Console</item>
+    </string-array>
+</resources>
